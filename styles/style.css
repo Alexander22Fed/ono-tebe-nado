@@ -40,10 +40,6 @@ html {
   margin-left: 38px;
 }
 
-.header__links-list-item_no-bullit {
-  list-style: none;
-  letter-spacing: 0;
-}
 
 .header__logo {
   display: flex;
