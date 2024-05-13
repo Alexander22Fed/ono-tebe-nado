@@ -146,6 +146,7 @@ html {
   position: relative;
   max-width: 1052px;
   height: 100%;
+  margin: 0 auto;
 }
 
 .lots__heading {
@@ -156,7 +157,7 @@ html {
   text-transform: uppercase;
   color: #000;
   margin-top: 180px;
-  margin-left: 64px;
+  margin-left: 39px;
 }
 
 .lots__card-list {
@@ -165,7 +166,6 @@ html {
   flex-direction: row;
   list-style: none;
   margin-top: 27px;
-  margin-left: 24px;
   gap: 25px;
   width: 100%;
   height: auto;
@@ -235,7 +235,7 @@ html {
   font-size: 20px;
   color: #000;
   margin-top: 30px;
-  margin-left: 64px;
+  margin-left: 39px;
 }
 
 .about {
